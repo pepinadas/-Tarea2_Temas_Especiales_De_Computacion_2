@@ -1,1 +1,1 @@
-# -Tarea2_Temas_Especiales_De_Computacion_2
+# Actividad2_Temas_Especiales_De_Computacion_2
